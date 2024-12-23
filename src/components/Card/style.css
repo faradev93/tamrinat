@@ -1,0 +1,8 @@
+.__card__style__{
+    width: 500px;
+    height: 350px;
+    background-color: rebeccapurple;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
